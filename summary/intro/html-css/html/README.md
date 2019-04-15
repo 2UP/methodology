@@ -9,23 +9,13 @@ description: >-
 
 ### HTML
 
-* [Синтаксис](http://codeguide.academy/html-css.html#html-syntax)
-* [Валидность](http://codeguide.academy/html-css.html#html-validator)
-* [HTML-доктайп](http://codeguide.academy/html-css.html#html-doctype)
-* [Кодировка символов](http://codeguide.academy/html-css.html#html-encoding)
-* [Подключение стилей](http://codeguide.academy/html-css.html#html-style-includes)
-* [Подключение скриптов](http://codeguide.academy/html-css.html#html-js-includes)
-* [Порядок атрибутов](http://codeguide.academy/html-css.html#html-attribute-order)
-* [Логические атрибуты](http://codeguide.academy/html-css.html#html-boolean)
-* [Подписи полей ввода](http://codeguide.academy/html-css.html#html-form-labels)
-* [Размеры картинок](http://codeguide.academy/html-css.html#html-img-sizes)
-* [Атрибут языка](http://codeguide.academy/html-css.html#html-language)
+* [Создание html-страницы](sozdanie-html-stranicy.md)
+* [Синтаксис](sintaksis.md)
 
 ### CSS
 
-* [Синтаксис](http://codeguide.academy/html-css.html#css-syntax)
-* [Порядок свойств](http://codeguide.academy/html-css.html#css-order)
-* [Имена классов](http://codeguide.academy/html-css.html#css-class-names)
-* [Правило @import](http://codeguide.academy/html-css.html#css-import)
-* [Варианты шрифта](http://codeguide.academy/html-css.html#css-font-variant)
+* [Синтаксис](sintaksis-css.md)
+* [Порядок свойств](poryadok-svoistv.md)
+* [Имена классов](imena-klassov.md)
+* [Варианты шрифта](varianty-shrifta.md)
 
