@@ -2,15 +2,15 @@
 
 Инструменты для тестирования верстки на переполнение:
 
-[Hulificator](http://huifikator.ru/)
+* [Hulificator](http://huifikator.ru/)
 
 Инструменты для тестирования верстки на соответствие макету:
 
-[PixelPerfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
+* [PixelPerfect](https://chrome.google.com/webstore/detail/perfectpixel-by-welldonec/dkaagdgjmgdmbnecmcefdhjekcoceebi?hl=ru)
 
 Инструмент для проверки html:
 
-[валидатор](http://validator.w3.org/nu/)
+* [Валидатор](http://validator.w3.org/nu/)
 
-[html-дерево](http://yoksel.github.io/html-tree/)
+* [Html-дерево](http://yoksel.github.io/html-tree/)
 
