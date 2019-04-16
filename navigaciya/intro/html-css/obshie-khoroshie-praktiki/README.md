@@ -12,6 +12,5 @@
 8. \*\*\*\*[**Позиционирование и выравнивание**](pozicionirovanie-i-vyravnivanie.md)
 9. \*\*\*\*[**Изображения**](../css/izobrazheniya.md)\*\*\*\*
 10. \*\*\*\*[**Links vs Buttons**](links-vs-buttons.md)
-11. \*\*\*\*[**Другие советы по работе с html**](drugie-sovety-po-rabote-s-html.md)
-12. \*\*\*\*[**Другие советы по работе с css**](drugie-sovety-po-rabote-s-css.md)\*\*\*\*
+11. \*\*\*\*[**Другие советы по работе с css**](drugie-sovety-po-rabote-s-css.md)\*\*\*\*
 

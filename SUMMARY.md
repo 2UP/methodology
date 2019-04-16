@@ -27,7 +27,6 @@
       * [Позиционирование и выравнивание](navigaciya/intro/html-css/obshie-khoroshie-praktiki/pozicionirovanie-i-vyravnivanie.md)
       * [Изображения](navigaciya/intro/html-css/obshie-khoroshie-praktiki/izobrazheniya.md)
       * [Links vs Buttons](navigaciya/intro/html-css/obshie-khoroshie-praktiki/links-vs-buttons.md)
-      * [Другие советы по работе с html](navigaciya/intro/html-css/obshie-khoroshie-praktiki/drugie-sovety-po-rabote-s-html.md)
       * [Другие советы по работе с css](navigaciya/intro/html-css/obshie-khoroshie-praktiki/drugie-sovety-po-rabote-s-css.md)
     * [Тестирование](navigaciya/intro/html-css/testirovanie/README.md)
       * [Тестирование верстки на переполнение](navigaciya/intro/html-css/testirovanie/testirovanie-verstki-na-perepolnenie.md)

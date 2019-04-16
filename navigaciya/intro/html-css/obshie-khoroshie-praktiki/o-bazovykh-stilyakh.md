@@ -2,7 +2,7 @@
 
 ## all: unset
 
-Сбрасывает все свойства, , кроме [`unicode-bidi`](https://developer.mozilla.org/ru/docs/Web/CSS/unicode-bidi) и [`direction`](https://developer.mozilla.org/ru/docs/Web/CSS/direction), применимых к элементу или родительскому элементу, до значения их родителя, если они наследуются или до их начальное значение, если нет. Таким образом, можно не сбрасывать каждое свойство у каждого элемента отдельно, достаточно задать ему свойство all: unset. 
+Сбрасывает все свойства, , кроме [`unicode-bidi`](https://developer.mozilla.org/ru/docs/Web/CSS/unicode-bidi) и [`direction`](https://developer.mozilla.org/ru/docs/Web/CSS/direction), применимых к элементу или родительскому элементу, до значения их родителя, если они наследуются или до их начальное значение, если нет. Таким образом, можно не сбрасывать каждое свойство у каждого элемента отдельно, достаточно задать ему свойство `all: unset`. 
 
 {% hint style="info" %}
 перед использованием посмотрите [поддержку браузерами](https://caniuse.com/#search=all). 
