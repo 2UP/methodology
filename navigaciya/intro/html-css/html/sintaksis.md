@@ -11,14 +11,14 @@
 <html lang="ru">
   <head>
     <meta charset="utf-8">
-    <title>Страница о коте</title>
+    <title>2UP</title>
   </head>
   <body>
     <article class="post">
-      <h1>Красивый кот</h1>
+      <h1>Наша компания</h1>
       <figure class="post-item">
-        <img src="cat.jpg" alt="Изображение кота">
-        <figcaption>Кот красив!</figcaption>
+        <img src="2UP-company.jpg" alt="Коллектив 2UP">
+        <figcaption>Вот так выглядит наш коллектив!</figcaption>
       </figure>
     </article>
   </body>
