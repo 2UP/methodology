@@ -11,6 +11,5 @@
 Инструмент для проверки html:
 
 * [Валидатор](http://validator.w3.org/nu/)
-
 * [Html-дерево](http://yoksel.github.io/html-tree/)
 
