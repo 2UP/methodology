@@ -36,5 +36,8 @@
         * [Инструменты для тестирования верстки](navigaciya/ru/intro/html-css/testirovanie/instrumenty-dlya-testirovaniya-verstki.md)
         * [Визуальное тестирование верстки](navigaciya/ru/intro/html-css/testirovanie/vizualnoe-testirovanie-verstki.md)
     * [JS](navigaciya/ru/intro/js.md)
-* [Methodology: english version](navigaciya/en.md)
+* [Methodology: english version](navigaciya/en/README.md)
+  * [Methodology sections](navigaciya/en/methodology-sections/README.md)
+    * [HTML/CSS](navigaciya/en/methodology-sections/html-css.md)
+    * [JS](navigaciya/en/methodology-sections/js.md)
 
