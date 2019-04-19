@@ -7,3 +7,10 @@ description: >-
 
 # Методология 2UP
 
+## Доступные языки:
+
+* [русский](navigaciya/ru/)
+* [english](navigaciya/en.md)
+
+
+
