@@ -12,5 +12,3 @@ description: >-
 * [русский](navigaciya/ru/)
 * [english](navigaciya/en.md)
 
-
-

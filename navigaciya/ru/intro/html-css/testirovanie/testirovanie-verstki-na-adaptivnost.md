@@ -22,5 +22,5 @@
 
 1. Для того чтобы эмулировать **пользовательский размер экрана** \(custom screen size\), задайте разрешение экрана устройства в пикселях в полях **ширина** \(width\) и **высота** \(height\):
 
-![](../../../../../.gitbook/assets/image-1.png)
+![](https://github.com/2UP/methodology/tree/a276ea4d4c8276ef8834c525e77ea1dd71e3fc54/.gitbook/assets/image-1.png)
 
